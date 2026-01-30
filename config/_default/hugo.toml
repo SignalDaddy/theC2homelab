@@ -67,3 +67,9 @@ enableEmoji = true
       name = 'fragmentrefs'
       type = 'fragments'
       weight = 10
+[params]
+  mainSections = ["blog"]
+  summaryLength = 30
+
+enableRobotsTXT = true
+enableEmoji = true
