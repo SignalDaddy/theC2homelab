@@ -1,0 +1,5 @@
+/* Increase Logo Size in Header */
+.navbar-brand img {
+    max-height: 4rem !important; /* Default is usually around 2.5rem */
+    width: auto;
+}
