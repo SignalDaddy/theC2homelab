@@ -15,20 +15,16 @@
 
   
   
-    <title>Initializing the C2 Homelab Blog &middot; </title>
-    <meta name="title" content="Initializing the C2 Homelab Blog &middot; ">
+    <title> &middot; </title>
+    <meta name="title" content=" &middot; ">
   
 
   
   
-    <meta name="description" content="The first entry documenting my technical transition, lab architecture, and the bridge between military and civilian engineering.">
-  
-  
-    <meta name="keywords" content="homelab,hugo,networking,career-transition,">
   
   
   
-  <link rel="canonical" href="http://localhost:1313/blog/learning-devops-with-homelabs/">
+  <link rel="canonical" href="http://localhost:1313/projects/projects.arch.devops-workstation/">
   
 
   
@@ -58,23 +54,13 @@
   
 
   
-  <meta property="og:url" content="http://localhost:1313/blog/learning-devops-with-homelabs/">
-  <meta property="og:title" content="Initializing the C2 Homelab Blog">
-  <meta property="og:description" content="The first entry documenting my technical transition, lab architecture, and the bridge between military and civilian engineering.">
+  <meta property="og:url" content="http://localhost:1313/projects/projects.arch.devops-workstation/">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="article">
-    <meta property="article:section" content="blog">
-    <meta property="article:published_time" content="2026-01-30T00:00:00+00:00">
-    <meta property="article:modified_time" content="2026-01-30T00:00:00+00:00">
-    <meta property="article:tag" content="Homelab">
-    <meta property="article:tag" content="Hugo">
-    <meta property="article:tag" content="Networking">
-    <meta property="article:tag" content="Career-Transition">
+    <meta property="article:section" content="projects">
 
   
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Initializing the C2 Homelab Blog">
-  <meta name="twitter:description" content="The first entry documenting my technical transition, lab architecture, and the bridge between military and civilian engineering.">
 
   
   
@@ -225,26 +211,26 @@
   [{
     "@context": "https://schema.org",
     "@type": "Article",
-    "articleSection": "Blog Posts",
-    "name": "Initializing the C2 Homelab Blog",
-    "headline": "Initializing the C2 Homelab Blog",
-    "description": "The first entry documenting my technical transition, lab architecture, and the bridge between military and civilian engineering.",
+    "articleSection": "Technical Ledger",
+    "name": "",
+    "headline": "",
+    
     "inLanguage": "en",
-    "url" : "http://localhost:1313/blog/learning-devops-with-homelabs/",
+    "url" : "http://localhost:1313/projects/projects.arch.devops-workstation/",
     "author" : {
       "@type": "Person",
       "name": "Kenneen D. Cail"
     },
-    "copyrightYear": "2026",
-    "dateCreated": "2026-01-30T00:00:00\u002b00:00",
-    "datePublished": "2026-01-30T00:00:00\u002b00:00",
     
-    "dateModified": "2026-01-30T00:00:00\u002b00:00",
     
-    "keywords": ["homelab","hugo","networking","career-transition"],
+    
+    
+    
+    
+    
     
     "mainEntityOfPage": "true",
-    "wordCount": "529"
+    "wordCount": "0"
   }]
   </script>
 
@@ -331,7 +317,7 @@
       
       class="flex items-center bf-icon-color-hover"
       aria-label="Blog"
-      title="Blog Posts">
+      title="Blog Post">
       
       
         <span class="text-base font-medium break-normal">
@@ -480,7 +466,7 @@
         
         class="flex items-center gap-4 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
         
-        <span title="Blog Posts" class="text-2xl font-bold tracking-tight">
+        <span title="Blog Post" class="text-2xl font-bold tracking-tight">
           Blog
         </span>
         
@@ -564,7 +550,7 @@
     <header id="single_header" class="mt-5 max-w-prose">
       
       <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
-        Initializing the C2 Homelab Blog
+        
       </h1>
       <div class="mt-1 mb-6 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
         
@@ -595,11 +581,7 @@
   
 
   
-    
-  
 
-  
-    
   
 
   
@@ -616,7 +598,7 @@
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <time datetime="2026-01-30T00:00:00&#43;00:00">30 January 2026</time><span class="px-2 text-primary-500">&middot;</span><span>529 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">3 mins</span>
+      <time datetime="0001-01-01T00:00:00&#43;00:00">1 January 0001</time>
     
 
     
@@ -756,57 +738,6 @@
 
         <div class="article-content max-w-prose mb-20">
           
-<h2 class="relative group">Systems Check
-    <div id="systems-check" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
-        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#systems-check" aria-label="Anchor">#</a>
-    </span>
-    
-</h2>
-<p>Today marks the first entry of <strong>The C2 Homelab</strong> blog this is basically a test run of my work thus far. It is January 30th, likely the final day of government operations before an extended shutdown, but here in the lab,
-the lights are on and the fans are humming.</p>
-<p>Starting this blog for me is a three-fold mission: part thought experiment, part portfolio building, and of course part hobby. While the blog itself is a small feature of my homelab,
-it serves as a live environment for me to master <strong>CI/CD pipelines</strong>. The workflow is lean: content is authored here from my workstation, pushed to GitHub, and automatically deployed to my <strong>AWS S3 bucket</strong>.</p>
-<p>By adopting modern frameworks like <strong>Hugo</strong> and <strong>Blowfish</strong>, I’m forcing myself into a cycle of repetition. Every morning follows a specific protocol: get out of bed, feed the dogs, weigh myself, sit down to code.
-I believe that efficiency is a byproduct of consistency; the more I repeat this cycle, the sharper I become at it and by extention all the skills associated with it: DevOps, Cloud Networking, UI/UX, etc&hellip;</p>
-
-<h2 class="relative group">Bridging the Skill Gap
-    <div id="bridging-the-skill-gap" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
-        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#bridging-the-skill-gap" aria-label="Anchor">#</a>
-    </span>
-    
-</h2>
-<p>I’ve been a soldier and working in Signal and Communications for the majority of my adult life. If you ask me about U.S. Army enterprise architecture or tactical cyber operations,
-I can probably give you the answer confidently and quickly or if I can&rsquo;t I can find the person who has it within minutes, seriously. My military sphere of influence is wide, but
-it is also specialized&hellip;</p>
-<p>There is where I have a problem, I recognize a looming challenge, <strong>The Civilian Skill Gap.</strong> If you asked me to architect the network for a global bank or a fast-paced SaaS startup,
-my military-centric toolkit would likely fall short. This realization leads to two hard truths that I have to reocognize.</p>
-<ol>
-<li><strong>The Skill Gap is Real.</strong> My expertise are as what we call a &ldquo;green-suiter&rdquo;. The equipment I use needs to be translated into the language of cloud providers and data centers and cyber security firms.</li>
-<li><strong>Options Require Growth.</strong> I don&rsquo;t just want a job; I want an outrageous number of options. Whether I end up an SRE at Google, a CISO for a startup, or a Solutions Architect living as an expat,
-I need skills that hold value no matter who I work for, where they are, and what they want me to do.</li>
-</ol>
-
-<h2 class="relative group">The &ldquo;Over the Hill&rdquo; Pivot
-    <div id="the-over-the-hill-pivot" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
-        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#the-over-the-hill-pivot" aria-label="Anchor">#</a>
-    </span>
-    
-</h2>
-<p>In the Army, your MOS (Military Occupational Specialty) is your lane. It’s rigid. While the military is starting to recognize the necessity of in-house Software Engineering and DevOps, those roles
-aren&rsquo;t going to be avalilable to those of us &ldquo;over the hill&rdquo; meaning, I&rsquo;m closer to seperating from the Army than I am from joining. I love the Army and I&rsquo;m sure on some level it loves me too,
-but the understandable and inevidable truth is&hellip;. the Army is done dumping resources into sharpening my individual skills.</p>
-<p>Since I can&rsquo;t always do this work in an official capacity, I will make do in the lab. This blog is the documentation of that transition.</p>
-<p><strong>Status: Initialized. Mission: Ongoing.</strong></p>
-
           
           
           
@@ -833,14 +764,42 @@ but the understandable and inevidable truth is&hellip;. the Army is done dumping
           type="text/javascript"
           src="/js/page.min.54b6f4371722649edbe871e431d8670d670878c22be8f36e229fe53cc9b786fe25a834def5e6de621f7a3e37b72bc8cd73839aa5ed907ed6cbd45cd3e1b0fa20.js"
           integrity="sha512-VLb0NxciZJ7b6HHkMdhnDWcIeMIr6PNuIp/lPMm3hv4lqDTe9ebeYh96Pje3K8jNc4Oape2QftbL1FzT4bD6IA=="
-          data-oid="views_blog/Learning-DevOps-with-Homelabs.md"
-          data-oid-likes="likes_blog/Learning-DevOps-with-Homelabs.md"></script>
+          data-oid="views_projects/projects.arch.devops-workstation.md"
+          data-oid-likes="likes_projects/projects.arch.devops-workstation.md"></script>
       
     </section>
 
     
     <footer class="pt-8 max-w-prose print:hidden">
       
+  
+    
+    
+    
+    <div class="pt-8">
+      <hr class="border-dotted border-neutral-300 dark:border-neutral-600">
+      <div class="flex justify-between pt-3">
+        <span class="flex flex-col">
+          
+        </span>
+        <span class="flex flex-col items-end">
+          
+            <a
+              class="flex text-right text-neutral-700 hover:text-primary-600 dark:text-neutral dark:hover:text-primary-400"
+              href="/projects/arch-devops-workstation/">
+              <span class="leading-6">
+                &ensp;<span class="inline-block rtl:rotate-180">&rarr;</span>
+              </span>
+            </a>
+            
+              <span class="me-6 mt-1 text-xs text-neutral-500 dark:text-neutral-400">
+                <time datetime="0001-01-01T00:00:00&#43;00:00">1 January 0001</time>
+              </span>
+            
+          
+        </span>
+      </div>
+    </div>
   
 
 
