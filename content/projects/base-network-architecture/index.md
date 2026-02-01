@@ -22,7 +22,18 @@ I'd like to get familiar with. I won't be too detailed in this schematics by lea
 
 ## The Architecture
 
-*  **Physical Network Topology:** Cabling Diagram
+The 12 port switch I have is the backbone of my infrastructure it does most of the heavy lifting both in network segementation as well as traffic handling on my LAN.
+I've taken my ISP provided router and switch it out with my firewall this allows me to create rules for how traffic is handled across my subnetworks. I've also repurposed
+the router and configured it into bypass mode so that I can use it as a wireless access point.
+
+The layer 2 infrastructure is set in a router on the stick style topology. Thanks to this I am able to create firewall rules that block and allow traffic between subnets.
+This is the simplest and fastest way you can set up a SOHO LAN. I've created 3 subnets one for the managment of the network, another for the daily home use of myself and guess, 
+as well as another network were my lab lives. I use a port channel group that trunks to my ESXi server so that my VMs can be managed as well some I use with my home subnet like my 
+TRUNAS-SCALE VM, other are placed on my management network like my DNSAdblocker. 
+
+---
+
+##  **Physical Network Topology:** Cabling Diagram
 
 {{< mermaid >}}
 graph TD
@@ -69,9 +80,11 @@ graph TD
     style Desktop fill:#1793d1,stroke:#333,color:#fff
 {{< /mermaid >}}
 
-* **Layer 2 Topology:** Logical Diagram
+---
 
+## **Layer 2 Topology:** Logical Diagram
 
+![Layer 2 Diagram](layer2 diagram.svg)
 
 
 

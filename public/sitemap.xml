@@ -3,24 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/projects/base-network-architecture/</loc>
-    <lastmod>2026-02-01T07:01:50-06:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/projects/</loc>
-    <lastmod>2026-02-01T07:01:50-06:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-02-01T07:01:50-06:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/blog/homelabs-can-start-your-career/</loc>
     <lastmod>2026-01-31T07:47:38-06:00</lastmod>
     <changefreq>daily</changefreq>
@@ -33,6 +15,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-01-31T07:47:38-06:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/projects/cicd-pipeline/</loc>
     <lastmod>2026-01-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -40,6 +28,12 @@
   </url>
   <url>
     <loc>http://localhost:1313/blog/learning-devops-with-homelabs/learning-devops-with-homelabs/</loc>
+    <lastmod>2026-01-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2026-01-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

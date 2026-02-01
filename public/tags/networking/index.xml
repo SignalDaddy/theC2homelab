@@ -9,17 +9,7 @@
     <managingEditor>kenneen.cail@gmail.com (Kenneen D. Cail)</managingEditor>
     <webMaster>kenneen.cail@gmail.com (Kenneen D. Cail)</webMaster>
     <copyright>2026 Kenneen D. Cail. All Right Reserved.</copyright>
-    <lastBuildDate>Sun, 01 Feb 2026 07:01:50 -0600</lastBuildDate><atom:link href="http://localhost:1313/tags/networking/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Base Network Architecture</title>
-      <link>http://localhost:1313/projects/base-network-architecture/</link>
-      <pubDate>Sun, 01 Feb 2026 07:01:50 -0600</pubDate>
-      <author>kenneen.cail@gmail.com (Kenneen D. Cail)</author>
-      <guid>http://localhost:1313/projects/base-network-architecture/</guid>
-      <description></description>
-      
-    </item>
+    <lastBuildDate>Fri, 30 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/networking/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Initializing the C2 Homelab Blog</title>
