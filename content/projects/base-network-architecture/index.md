@@ -1,7 +1,7 @@
 ---
 title: "Base Network Architecture"
 date: 2026-02-01T14:23:18-06:00
-draft: true
+draft: flase
 description: "Technical breakdown of [Network Architecture]"
 tags: ["homelab", "networking", "diagrams"]
 showTaxonomies: true
