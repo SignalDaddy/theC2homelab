@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The C2 Homelab on </title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in The C2 Homelab on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>kenneen.cail@gmail.com (Kenneen D. Cail)</managingEditor>
+    <webMaster>kenneen.cail@gmail.com (Kenneen D. Cail)</webMaster>
+    <copyright>2026 Kenneen D. Cail. All Right Reserved.</copyright>
+    <lastBuildDate>Sun, 01 Feb 2026 14:23:18 -0600</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Base Network Architecture</title>
+      <link>http://localhost:1313/projects/base-network-architecture/</link>
+      <pubDate>Sun, 01 Feb 2026 14:23:18 -0600</pubDate>
+      <author>kenneen.cail@gmail.com (Kenneen D. Cail)</author>
+      <guid>http://localhost:1313/projects/base-network-architecture/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>A Homelab Can Start Your Career</title>
+      <link>http://localhost:1313/blog/homelabs-can-start-your-career/</link>
+      <pubDate>Sat, 31 Jan 2026 07:47:38 -0600</pubDate>
+      <author>kenneen.cail@gmail.com (Kenneen D. Cail)</author>
+      <guid>http://localhost:1313/blog/homelabs-can-start-your-career/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Automated CI/CD Pipeline: Lab to Cloud</title>
+      <link>http://localhost:1313/projects/cicd-pipeline/</link>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
+      <author>kenneen.cail@gmail.com (Kenneen D. Cail)</author>
+      <guid>http://localhost:1313/projects/cicd-pipeline/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Initializing the C2 Homelab Blog</title>
+      <link>http://localhost:1313/blog/learning-devops-with-homelabs/learning-devops-with-homelabs/</link>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
+      <author>kenneen.cail@gmail.com (Kenneen D. Cail)</author>
+      <guid>http://localhost:1313/blog/learning-devops-with-homelabs/learning-devops-with-homelabs/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
