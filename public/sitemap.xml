@@ -3,6 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2026-02-05T19:41:00-06:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/blog/self-hosted-ai-agent-with-openclaw/</loc>
+    <lastmod>2026-02-05T19:41:00-06:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-02-05T19:41:00-06:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/projects/base-network-architecture/</loc>
     <lastmod>2026-02-01T14:23:18-06:00</lastmod>
     <changefreq>daily</changefreq>
@@ -15,19 +33,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-02-01T14:23:18-06:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/blog/homelabs-can-start-your-career/</loc>
-    <lastmod>2026-01-31T07:47:38-06:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/blog/</loc>
     <lastmod>2026-01-31T07:47:38-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

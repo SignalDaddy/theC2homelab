@@ -9,7 +9,17 @@
     <managingEditor>kenneen.cail@gmail.com (Kenneen D. Cail)</managingEditor>
     <webMaster>kenneen.cail@gmail.com (Kenneen D. Cail)</webMaster>
     <copyright>2026 Kenneen D. Cail. All Right Reserved.</copyright>
-    <lastBuildDate>Sun, 01 Feb 2026 14:23:18 -0600</lastBuildDate><atom:link href="http://localhost:1313/tags/homelab/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Feb 2026 19:41:00 -0600</lastBuildDate><atom:link href="http://localhost:1313/tags/homelab/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Self Hosted AI Agent With OpenClaw</title>
+      <link>http://localhost:1313/blog/self-hosted-ai-agent-with-openclaw/</link>
+      <pubDate>Thu, 05 Feb 2026 19:41:00 -0600</pubDate>
+      <author>kenneen.cail@gmail.com (Kenneen D. Cail)</author>
+      <guid>http://localhost:1313/blog/self-hosted-ai-agent-with-openclaw/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Base Network Architecture</title>

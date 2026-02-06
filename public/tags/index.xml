@@ -9,14 +9,14 @@
     <managingEditor>kenneen.cail@gmail.com (Kenneen D. Cail)</managingEditor>
     <webMaster>kenneen.cail@gmail.com (Kenneen D. Cail)</webMaster>
     <copyright>2026 Kenneen D. Cail. All Right Reserved.</copyright>
-    <lastBuildDate>Sun, 01 Feb 2026 14:23:18 -0600</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Feb 2026 19:41:00 -0600</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Diagrams</title>
-      <link>http://localhost:1313/tags/diagrams/</link>
-      <pubDate>Sun, 01 Feb 2026 14:23:18 -0600</pubDate>
+      <title>Blog</title>
+      <link>http://localhost:1313/tags/blog/</link>
+      <pubDate>Thu, 05 Feb 2026 19:41:00 -0600</pubDate>
       <author>kenneen.cail@gmail.com (Kenneen D. Cail)</author>
-      <guid>http://localhost:1313/tags/diagrams/</guid>
+      <guid>http://localhost:1313/tags/blog/</guid>
       <description></description>
       
     </item>
@@ -24,9 +24,29 @@
     <item>
       <title>Homelab</title>
       <link>http://localhost:1313/tags/homelab/</link>
-      <pubDate>Sun, 01 Feb 2026 14:23:18 -0600</pubDate>
+      <pubDate>Thu, 05 Feb 2026 19:41:00 -0600</pubDate>
       <author>kenneen.cail@gmail.com (Kenneen D. Cail)</author>
       <guid>http://localhost:1313/tags/homelab/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Lab-Guides</title>
+      <link>http://localhost:1313/tags/lab-guides/</link>
+      <pubDate>Thu, 05 Feb 2026 19:41:00 -0600</pubDate>
+      <author>kenneen.cail@gmail.com (Kenneen D. Cail)</author>
+      <guid>http://localhost:1313/tags/lab-guides/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Diagrams</title>
+      <link>http://localhost:1313/tags/diagrams/</link>
+      <pubDate>Sun, 01 Feb 2026 14:23:18 -0600</pubDate>
+      <author>kenneen.cail@gmail.com (Kenneen D. Cail)</author>
+      <guid>http://localhost:1313/tags/diagrams/</guid>
       <description></description>
       
     </item>
@@ -117,6 +137,16 @@
       <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
       <author>kenneen.cail@gmail.com (Kenneen D. Cail)</author>
       <guid>http://localhost:1313/tags/s3/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Guides</title>
+      <link>http://localhost:1313/tags/guides/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>kenneen.cail@gmail.com (Kenneen D. Cail)</author>
+      <guid>http://localhost:1313/tags/guides/</guid>
       <description></description>
       
     </item>
