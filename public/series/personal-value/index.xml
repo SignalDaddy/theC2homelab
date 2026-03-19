@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Career &amp; Learning on </title>
-    <link>http://localhost:1313/series/career--learning/</link>
-    <description>Recent content in Career &amp; Learning on </description>
+    <title>Personal Value on </title>
+    <link>http://localhost:1313/series/personal-value/</link>
+    <description>Recent content in Personal Value on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>kenneen.cail@gmail.com (Kenneen D. Cail)</managingEditor>
     <webMaster>kenneen.cail@gmail.com (Kenneen D. Cail)</webMaster>
     <copyright>2026 Kenneen D. Cail. All Right Reserved.</copyright>
-    <lastBuildDate>Thu, 19 Mar 2026 07:47:38 -0600</lastBuildDate><atom:link href="http://localhost:1313/series/career--learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Mar 2026 07:47:38 -0600</lastBuildDate><atom:link href="http://localhost:1313/series/personal-value/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Why Linux Skills are Important, but Not for Getting a Job</title>
@@ -17,16 +17,6 @@
       <pubDate>Thu, 19 Mar 2026 07:47:38 -0600</pubDate>
       <author>kenneen.cail@gmail.com (Kenneen D. Cail)</author>
       <guid>http://localhost:1313/blog/why-linux-skills-are-important-but-not-for-getting-a-job/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>A Homelab Can Start Your Career</title>
-      <link>http://localhost:1313/blog/homelabs-can-start-your-career/</link>
-      <pubDate>Sat, 31 Jan 2026 07:47:38 -0600</pubDate>
-      <author>kenneen.cail@gmail.com (Kenneen D. Cail)</author>
-      <guid>http://localhost:1313/blog/homelabs-can-start-your-career/</guid>
       <description></description>
       
     </item>
